@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+h1, p {
+  font-family: Lato;
+  line-height: 34px;
+}
+p {
+  font-size: 20px;
+  color: #333;
+}
