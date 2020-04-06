@@ -1,7 +1,7 @@
 const api = require('cosmicjs')();
 const bucket = api.bucket({
   slug: 'simple-react-blog',
-  ready_key: '' // Find this in Bucket > Settings > API Access after logging in https://app.cosmicjs.com/login
+  read_key: '' // Find this in Bucket > Settings > API Access after logging in https://app.cosmicjs.com/login
 })
 export async function getStaticProps() {
   const post = (await bucket.getObject({
