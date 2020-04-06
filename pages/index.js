@@ -4,7 +4,8 @@ const bucket = api.bucket({
 })
 export async function getStaticProps() {
   const post = (await bucket.getObject({
-    slug: 'a-wonderful-blog-post-about-earth'
+    slug: 'a-wonderful-blog-post-about-earth',
+    ready_key: '' // Find this in Bucket > Settings >API Access
   })).object
   return {
     props: {
