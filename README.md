@@ -38,8 +38,6 @@ To learn more about Cosmic JS, take a look at the following resources:
 - [Cosmic JS Documentation](https://docs.cosmicjs.com) - learn about Cosmic JS features and API.
 - [Log in to your Dashboard](https://app.cosmicjs.com) - log in to the Cosmic JS Headless CMS dashboard.
 
-You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
-
 
 ## Deploy on ZEIT Now
 
