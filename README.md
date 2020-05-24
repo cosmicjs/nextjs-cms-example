@@ -1,6 +1,6 @@
 ![Image](https://cdn.cosmicjs.com/aa4befc0-780e-11ea-af54-a1f2382919db-nextjs-example.png)
 
-An example of how to add Cosmic JS content to your Next.js website. Go to [Cosmic JS](https://www.cosmicjs.com) to login and get started.
+An example of how to add Cosmic content to your Next.js website. Go to [Cosmic](https://www.cosmicjs.com) to login and get started.
 
 ## Getting Started
 
@@ -31,12 +31,12 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/zeit/next.js/) - your feedback and contributions are welcome!
 
-## Learn More about Cosmic JS
+## Learn More about Cosmic
 
-To learn more about Cosmic JS, take a look at the following resources:
+To learn more about Cosmic, take a look at the following resources:
 
-- [Cosmic JS Documentation](https://docs.cosmicjs.com) - learn about Cosmic JS features and API.
-- [Log in to your Dashboard](https://app.cosmicjs.com) - log in to the Cosmic JS Headless CMS dashboard.
+- [Cosmic Documentation](https://docs.cosmicjs.com) - learn about Cosmic features and API.
+- [Log in to your Dashboard](https://app.cosmicjs.com) - log in to the Cosmic Headless CMS dashboard.
 
 
 ## Deploy on ZEIT Now
